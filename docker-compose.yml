@@ -1,0 +1,15 @@
+version: '3.9'
+services:
+  chromadb_faq_rag:
+    image: chromadb/chroma:latest
+    container_name: chromadb_faq_rag
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data/chroma:/chroma/data
+      - ./data/documents:/srv/documents
+      - ./scripts:/srv/scripts
+      - ./config:/srv/config
+    environment:
+      - CHROMA_DB_DIR=/chroma/data
+    command: chroma run --host 0.0.0.0 --port 8000
