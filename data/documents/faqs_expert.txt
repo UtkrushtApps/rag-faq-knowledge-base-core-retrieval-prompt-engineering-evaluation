@@ -1,0 +1,24 @@
+
+# FAQ Knowledge Base - Sample (excerpt)
+
+## Billing
+
+**Q1: How do I update my billing address?**
+A: To update your billing address, log into your account dashboard, navigate to "Account Settings," and select "Billing Information." Click on "Edit Address," make your changes, then confirm. Processing takes effect immediately. (Applicable in all countries except for special billing partners, see [Appendix C].)
+
+**Q2: I was double-charged. How do I get a refund?**
+A: If you notice duplicate charges, contact support via the "Report a Problem" page. Include your order number and payment receipt. Refunds typically resolve within 3-5 business days. Certain payment gateways (see [Appendix B]) may require manual review.
+
+---
+
+## Troubleshooting
+
+**Q101: My login fails with 'Service Not Available'.**
+A: This error occurs during scheduled maintenance or network outages. Check our [System Status] page for updates. If the problem persists beyond 30 minutes, contact support with your browser version and a trace screenshot.
+
+**Q105: Why can't I reset my password?**
+A: You must have a verified email address. If you didn't receive the reset email, check your spam folder and whitelist our sender address. For legacy accounts opened before 2018, extra verification may be required (see [Legacy Account Policy, Appendix F]).
+
+...
+
+[Real file would continue with 2,000 Q&As over ~50,000 characters, structured by 10+ categories, each with deep answers, references, and cross-category notes for rich semantic variety.]
